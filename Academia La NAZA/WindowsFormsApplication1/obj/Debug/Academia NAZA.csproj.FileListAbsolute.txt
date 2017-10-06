@@ -1,0 +1,16 @@
+G:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Presentacion.dll
+G:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Presentacion.pdb
+G:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Academia NAZA.csprojResolveAssemblyReference.cache
+G:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Academia NAZA.csproj.GenerateResource.Cache
+G:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

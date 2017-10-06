@@ -1,0 +1,140 @@
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csprojResolveAssemblyReference.cache
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Alumnos.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Asistencia.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Evaluaciones.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.GCPA.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Grupos.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Login.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Matriculas.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Menu.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Pagos.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Profesores.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csproj.GenerateResource.Cache
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csprojResolveAssemblyReference.cache
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Alumnos.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Asistencia.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Evaluaciones.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.GCPA.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Grupos.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Login.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Matriculas.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Menu.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Pagos.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Profesores.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csproj.GenerateResource.Cache
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.dll
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.dll
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.dll
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ximena\Documents\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csprojResolveAssemblyReference.cache
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Alumnos.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Asistencia.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Evaluaciones.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.GCPA.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Grupos.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Login.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Matriculas.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Menu.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Pagos.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Profesores.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csproj.GenerateResource.Cache
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.dll
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.dll
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.dll
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.pdb
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+E:\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csprojResolveAssemblyReference.cache
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Alumnos.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Asistencia.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Evaluaciones.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.GCPA.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Grupos.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Login.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Matriculas.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Menu.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Pagos.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Profesores.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csproj.GenerateResource.Cache
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Usuario_Rol.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csprojResolveAssemblyReference.cache
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Alumnos.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Asistencia.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Evaluaciones.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.GCPA.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Grupos.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Login.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Matriculas.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Menu.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Pagos.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Profesores.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Properties.Resources.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Usuario_Rol.resources
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csproj.GenerateResource.Cache
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Datos.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Entidades.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\bin\Debug\Negocio.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csprojResolveAssemblyReference.cache
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Alumnos.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Asistencia.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Evaluaciones.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.GCPA.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Grupos.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Login.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Matriculas.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Menu.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Pagos.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Profesores.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Properties.Resources.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Usuario_Rol.resources
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentaciones.csproj.GenerateResource.Cache
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\WindowsFormsApplication1\obj\Debug\Presentacion.Usuarios_Registro.resources

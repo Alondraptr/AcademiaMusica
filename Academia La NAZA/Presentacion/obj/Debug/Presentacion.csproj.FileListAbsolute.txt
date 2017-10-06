@@ -1,0 +1,16 @@
+G:\Academia La NAZA\Presentacion\bin\Debug\Presentacion.dll
+G:\Academia La NAZA\Presentacion\bin\Debug\Presentacion.pdb
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Menu.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.dll
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.pdb
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Alumnos.resources
+G:\Academia La NAZA\Presentacion\bin\Debug\Presentacion.dll.config
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Asistencia.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Evaluaciones.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.GCPA.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Grupos.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Matriculas.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Pagos.resources
+G:\Academia La NAZA\Presentacion\obj\Debug\Presentacion.Profesores.resources

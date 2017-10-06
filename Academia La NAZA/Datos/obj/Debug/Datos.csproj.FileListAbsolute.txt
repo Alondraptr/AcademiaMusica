@@ -1,0 +1,40 @@
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\bin\Debug\Datos.dll.config
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\bin\Debug\Datos.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\bin\Debug\Datos.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\bin\Debug\Entidades.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\bin\Debug\Entidades.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\obj\Debug\Datos.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Datos\obj\Debug\Datos.pdb
+E:\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll.config
+E:\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll
+E:\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.pdb
+E:\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.dll
+E:\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.pdb
+E:\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.dll
+E:\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll.config
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll.config
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll.config
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Datos.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\bin\Debug\Entidades.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Datos\obj\Debug\Datos.pdb

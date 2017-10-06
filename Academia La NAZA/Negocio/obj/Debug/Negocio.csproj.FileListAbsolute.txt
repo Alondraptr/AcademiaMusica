@@ -1,0 +1,45 @@
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\bin\Debug\Datos.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ximena\Documents\Academia La NAZA\Negocio\obj\Debug\Negocio.pdb
+E:\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.dll
+E:\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.pdb
+E:\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.dll
+E:\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.dll
+E:\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.pdb
+E:\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.pdb
+E:\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.dll
+E:\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.pdb
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.dll
+C:\Users\Ximena\Desktop\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.pdb
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.dll
+G:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Negocio.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Datos.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\bin\Debug\Entidades.pdb
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.dll
+E:\La NAZA\Sistema NAZA\Academia La NAZA\Negocio\obj\Debug\Negocio.pdb
